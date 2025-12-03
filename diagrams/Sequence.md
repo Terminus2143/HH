@@ -8,12 +8,12 @@
 
 ### 1. Вход в учётную запись<a name="1"></a>
 
-![Вход в учётную запись](https://github.com/helistam/HeartHunter/blob/main/diagrams/images/SequenceDiagramSignIn.png)
+![Вход в учётную запись](https://github.com/Terminus2143/HH/blob/main/diagrams/images/SequenceDiagramSignIn.png)
 
 ### 2. Регистрация в приложении<a name="2"></a>
 
-![Регистрация в приложении](https://github.com/helistam/HeartHunter/blob/main/diagrams/images/SequenceDiagramSignUp.png)
+![Регистрация в приложении](https://github.com/Terminus2143/HH/blob/main/diagrams/images/SequenceDiagramSignUp.png)
 
 ### 3. Просмотр анкет<a name="3"></a>
 
-![Просмотр анкет](https://github.com/helistam/HeartHunter/blob/main/diagrams/images/SequenceDiagramAnketaChek.png)
+![Просмотр анкет](https://github.com/Terminus2143/HH/blob/main/diagrams/images/SequenceDiagramAnketaChek.png)
