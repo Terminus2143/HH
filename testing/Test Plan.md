@@ -15,7 +15,7 @@
 
 ## Введение
 
-Данный документ описывает план тестирования приложения ["Heart Hunter"](https://github.com/helistam/HeartHunter). Документ предназначен для людей, выполняющих тестирование данного проекта. Цель тестирования - проверка соответствия реального поведения программы проекта и ее ожидаемого поведения, которое описано в [требованиях](https://github.com/glestorn/EnjoyPlayer/blob/master/Documents/Requirements/RussianRequirementsDocument.md).
+Данный документ описывает план тестирования приложения ["Heart Hunter"](https://github.com/Terminus2143/HH). Документ предназначен для людей, выполняющих тестирование данного проекта. Цель тестирования - проверка соответствия реального поведения программы проекта и ее ожидаемого поведения, которое описано в [требованиях](https://github.com/glestorn/EnjoyPlayer/blob/master/Documents/Requirements/RussianRequirementsDocument.md).
 
 <a name="items"/>
 
@@ -63,7 +63,7 @@
 ### Запуск приложения
 Этот вариант использования небходимо протестировать на:
 * запуск приложения;
-* отображение окна входа приложения согласно [мокапу](https://github.com/helistam/HeartHunter/blob/main/images/Log%20in.png).
+* отображение окна входа приложения согласно [мокапу](https://github.com/Terminus2143/HH/blob/main/images/Log%20in.png).
 
 ### Регистрация в приложении
 Этот вариант использования небходимо протестировать на:
@@ -111,7 +111,7 @@
 
 ## Представление результатов
 
-Результаты представлены  в документе ["Результаты тестирования"](https://github.com/helistam/HeartHunter/blob/main/testing/Test%20Result.md).
+Результаты представлены  в документе ["Результаты тестирования"](https://github.com/Terminus2143/HH/blob/main/testing/Test%20Result.md).
 
 <a name="conclusion"/>
 
