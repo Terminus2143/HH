@@ -43,7 +43,7 @@
 <a name="appointment"/>
 
 ## 1.1 Назначение
-Данный документ содержит функциональные и нефункциональные требования к приложению "HeartHunter" - приложению для знакомств на платформе Android. Документ предназначен для команды разработчиков, ответственных за создание и проверку корректной работы приложения.
+Данный документ содержит функциональные и нефункциональные требования к приложению "HeartHunter" - приложению для знакомств на платформе Android.
 
 <a name="business_requirements"/>
 
@@ -68,7 +68,7 @@
 Границы проекта приложения "HeartHunter" включают в себя следующее:
 
 -Платформа и ОС: Приложение разрабатывается исключительно для операционной системы Android и не будет доступно на других платформах, таких как iOS или веб-приложения.
--Географическая ограниченность: Первоначально приложение будет доступно только в определенных географических регионах или странах, определенных разработчиками. Расширение доступности приложения будет производиться по мере необходимости.
+-Географическая ограниченность: Первоначально приложение будет доступно только в определенных географических регионах или странах. Расширение доступности приложения будет производиться по мере необходимости.
 -Языковая поддержка: Приложение будет поддерживать ограниченное число языков, которые будут определены на этапе разработки. Добавление новых языков потребует дополнительной работы.
 -Функциональные ограничения: Приложение "HeartHunter" будет ориентировано исключительно на функции и возможности, связанные с знакомствами и общением между пользователями. Оно не будет включать в себя функциональность, не связанную с целью знакомства и общения.
 -Безопасность и конфиденциальность: Приложение будет предоставлять определенные меры безопасности и конфиденциальности для пользователей, но оно не может гарантировать абсолютную защиту данных или безопасность внешних действий пользователей.
@@ -100,40 +100,40 @@
 Окно входа в приложение.
 
 
-![Окно входа в приложение](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Log%20in.png)
+![Окно входа в приложение](https://github.com/Terminus2143/HH/blob/main/images/mockups/Log%20in.png)
 
 Окно регистрации нового пользователя.
 
 
-![Окно регистрации нового пользователя](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Sign%20up%201.png)
+![Окно регистрации нового пользователя](https://github.com/Terminus2143/HH/blob/main/images/mockups/Sign%20up%201.png)
 
 Окно регистрации нового пользователя после ввода имени, электронной почты, пароля и даты рождения.
 
-![Окно регистрации нового пользователя после ввода имени, электронной почты, пароля и даты рождения](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Sign%20up%202.png)
+![Окно регистрации нового пользователя после ввода имени, электронной почты, пароля и даты рождения](https://github.com/Terminus2143/HH/blob/main/images/mockups/Sign%20up%202.png)
 
 Главное окно приложения.
 
-![Главное окно приложения](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Home%20page.png)
+![Главное окно приложения](https://github.com/Terminus2143/HH/blob/main/images/mockups/Home%20page.png)
 
 Окно профиля.
 
-![Окно профиля](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Profile%20page.png)
+![Окно профиля](https://github.com/Terminus2143/HH/blob/main/images/mockups/Profile%20page.png)
 
 Окно списка диалогов.
 
-![Окно списка диалогов](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Message%20page.png)
+![Окно списка диалогов](https://github.com/Terminus2143/HH/blob/main/images/mockups/Message%20page.png)
 
 Окно диалога.
 
-![Окно диалога](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Chat%20page.png)
+![Окно диалога](https://github.com/Terminus2143/HH/blob/main/images/mockups/Chat%20page.png)
 
 Окно уведомлений.
 
-![Окно уведомлений](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Notification%20page.png)
+![Окно уведомлений](https://github.com/Terminus2143/HH/blob/main/images/mockups/Notification%20page.png)
 
 Окно совпадений.
 
-![Окно совпадений](https://github.com/helistam/HeartHunter/blob/main/images/mockups/Match%20page.png)
+![Окно совпадений](https://github.com/Terminus2143/HH/blob/main/images/mockups/Match%20page.png)
 
 
 <a name="user_specifications"/>
