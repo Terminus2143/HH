@@ -1,6 +1,6 @@
 # Диаграмма классов
 
-![Диаграмма классов](https://github.com/helistam/HeartHunter/blob/main/diagrams/images/ClassDiagram.png)
+![Диаграмма классов](https://github.com/Terminus2143/HH/blob/main/diagrams/images/ClassDiagram.png)
 
 # Глоссарий
 
