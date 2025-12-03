@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](https://github.com/helistam/HeartHunter/blob/main/diagrams/images/UseCase.png)
+![Диаграмма вариантов использования](https://github.com/Terminus2143/HH/blob/main/diagrams/images/UseCase.png)
 
 # Глоссарий
 
